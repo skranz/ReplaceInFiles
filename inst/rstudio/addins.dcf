@@ -1,0 +1,4 @@
+Name: Replace in Files
+Description: Find and Replace in Files
+Binding: replaceInFilesAddin
+Interactive: true
